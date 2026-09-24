@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-lorain",
   "title": "Arcgis Lorain",
   "description": "Lorain County GIS — Lorain County, Ohio open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-lorain",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-lorain",
